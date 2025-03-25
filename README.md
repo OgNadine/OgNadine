@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## 👋
+<div id="header" align="center">
+  <img src="![100002527737b2](https://github.com/user-attachments/assets/d679baa9-718d-47a5-a946-21cedd74acc8)" width="200"/>
+</div>
 <!--
 **OgNadine/OgNadine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
